@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="AnimatedButton.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="AnimatedButton"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="AnimatedButton"/>
+        <attr name="class_dependency_javax.swing.JButton" stringvalue="AnimatedButton"/>
+    </fileobject>
+    <fileobject name="AnimatedJButton.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="AnimatedJButton"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="AnimatedJButton"/>
+        <attr name="class_dependency_javax.swing.JButton" stringvalue="AnimatedJButton"/>
+    </fileobject>
+    <fileobject name="SecondsCounter.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="SecondsCounter"/>
+    </fileobject>
+    <fileobject name="Shuffle.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="Shuffle"/>
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="Shuffle"/>
+    </fileobject>
+    <fileobject name="ShuffleGame.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="ShuffleGame"/>
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="ShuffleGame"/>
+    </fileobject>
+</attributes>
